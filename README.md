@@ -1,0 +1,1 @@
+This is my final project for the Responsive Web Design section of the freeCodeCamp.org curriculum.  This is also my first time using Git and GitHub.
